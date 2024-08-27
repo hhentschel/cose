@@ -1,7 +1,7 @@
-dateModified: 1719499904
+dateModified: 1724760426
 email:
   fromEmail: p@henrik-hentschel.de
-  fromName: CraftDev
+  fromName: Cose
   transportType: craft\mail\transportadapters\Sendmail
 fs:
   contentimages:
@@ -89,7 +89,7 @@ meta:
     72555363-9815-48cd-bcce-d855765e7d66: 'Plain Text' # Plain Text
     a2c173c5-4b31-4338-86ee-a0cb4aafc12b: Home # Home
     b3f3c321-3167-4f74-8f3e-a3a6a7b75f96: Description # Description
-    b770f7e5-3411-4c52-91e3-c5929d334207: CraftDev # CraftDev
+    b770f7e5-3411-4c52-91e3-c5929d334207: Cose # Cose
     b64266e0-f780-4789-82af-577ebebb1372: Footer # Footer
     bdf32217-a781-41f4-8a9d-ba623b04e90a: 'Image Content' # Image Content
     c3a6b49e-2ca2-47c0-b154-7eb46f85bd2f: Header # Header
@@ -195,8 +195,8 @@ plugins:
 system:
   edition: solo
   live: true
-  name: CraftDev
-  schemaVersion: 5.0.0.21
+  name: Cose
+  schemaVersion: 5.3.0.2
   timeZone: America/Los_Angeles
 users:
   allowPublicRegistration: false
