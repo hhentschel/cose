@@ -3,8 +3,8 @@
   "prefer-stable": true,
   "require": {
     "craftcms/aws-s3": "^2.2.1",
-    "craftcms/ckeditor": "4.1.0",
-    "craftcms/cms": "5.2.3",
+    "craftcms/ckeditor": "4.2.0",
+    "craftcms/cms": "5.3.6",
     "mmikkel/cp-field-inspect": "^2.0.1",
     "nystudio107/craft-emptycoalesce": "^5.0.0",
     "nystudio107/craft-imageoptimize": "5.0.2",
