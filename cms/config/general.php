@@ -24,7 +24,6 @@ return GeneralConfig::create()
     //     '@webroot' => dirname(__DIR__) . '/web',
     //     '@assetsUrl' => dirname(__DIR__) . '/web/dist',
     // ])
-
     ->allowUpdates(App::env('CRAFT_ALLOW_UPDATES'))
     ->allowAdminChanges(App::env('CRAFT_ALLOW_ADMIN_CHANGES'))
     ->backupOnUpdate(App::env('CRAFT_BACKUP_ON_UPDATE'))
